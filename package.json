@@ -1,0 +1,17 @@
+{
+  "name": "custom-bootstrap",
+  "version": "0.0.1",
+  "description": "my first custom bootstrap project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shahjahan",
+  "license": "proprietry",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-cssmin": "^0.9.0",
+    "grunt-contrib-less": "^0.11.1",
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}
