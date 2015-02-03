@@ -6601,7 +6601,7 @@ header #contact-header p span {
   background: #71c8b5;
   margin: 120px 0 0;
   text-align: left;
-  padding: 10px 0 0;
+  padding: 16px 0 0;
 }
 #mobile-call-us p {
   font-family: 'Museo_Slab_0';
@@ -6784,7 +6784,7 @@ header #contact-header p span {
 #tools ol li {
   margin-bottom: 7px;
 }
-#tools .col-sm-6:last-child {
+#tools .col-sm-6:first-child {
   padding-top: 35px;
 }
 #work {
@@ -7158,7 +7158,7 @@ footer .address {
     padding-top: 10px;
   }
   #mobile-call-us {
-    margin: 88px 0 0;
+    margin: 100px 0 0;
   }
 }
 @media screen and (max-width: 600px) {

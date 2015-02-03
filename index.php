@@ -50,7 +50,7 @@
                                         <!-- Collect the nav links, forms, and other content for toggling -->
                                         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                                             <ul class="nav navbar-nav">
-                                                <li class=""><a href="#services" class="active1">Services<span class="sr-only">(current)</span></a></li>
+                                                <li class=""><a href="#services" >Services<span class="sr-only">(current)</span></a></li>
                                                 <li><a href="#tools">Tools</a></li>
                                                 
                                                 <li><a href="#work">Our Work</a></li>
@@ -208,10 +208,7 @@
         <section id="tools" style="">
             <div class="container">
                 <div class="row">
-                    <div class="col-sm-6">
-                        <img src="build/images/tools.png" width="515" height="250" class="img-responsive">
-                    </div>
-                    <div class="col-sm-6">
+                     <div class="col-sm-6">
                         <h2>Tools We Work With</h2>
                         <p>We typically use the following tools according to your project 
                             needs and specifications:</p>
@@ -224,6 +221,10 @@
                             <li>Adapt Learning</li>
                         </ol>
                     </div>
+                    <div class="col-sm-6">
+                        <img src="build/images/tools.png" width="515" height="250" class="img-responsive ">
+                    </div>
+                   
                 </div>
             </div>
         </section>  
